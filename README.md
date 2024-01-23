@@ -1,6 +1,6 @@
 # Google Sheets API Python Wrapper for Dashboard Creation
 
-This code allows you to connect a Postgres or MYSQL database to a Google Sheet, designed originally for use in the creation of customized dashboards to display near real-time data to end users.
+This code allows you to connect a Postgres or MySQL database to a Google Sheet, designed originally for use in the creation of customized dashboards to display near real-time data to end users.
 
 ### Requirements
 Along with the necessary Python packages in `requirements.txt`, you will need to have a `credentials.json` file, which is generated after creating a project on Google Cloud. This link should prove useful:
